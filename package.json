@@ -1,0 +1,23 @@
+{
+  "name": "create-react-cli",
+  "version": "0.0.1",
+  "description": "react cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiuyuntao/r-cli.git"
+  },
+  "keywords": [
+    "react",
+    "cli"
+  ],
+  "author": "qiuyuntao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qiuyuntao/r-cli/issues"
+  },
+  "homepage": "https://github.com/qiuyuntao/r-cli#readme"
+}
